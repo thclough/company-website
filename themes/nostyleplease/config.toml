@@ -31,7 +31,7 @@
     ordered    = false
 
 [params]
-  description = "Accelerating your business processes with AI automation"
+  description = "Accelerating your business processes with AI automation systems"
   [params.theme_config]
     appearance        = "auto"
     back_home_text    = ".."
