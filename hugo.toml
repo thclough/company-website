@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'Clough Systems'
 theme = 'nostyleplease'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
